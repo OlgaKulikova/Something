@@ -1,6 +1,7 @@
 package com.kulykova;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.stream.Collectors;
 
 public class Streams {
@@ -20,5 +21,6 @@ public class Streams {
         if (result.isEmpty()) {
             System.out.println(result);
         }
+      // for test
     }
 }
